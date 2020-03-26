@@ -54,7 +54,7 @@ autopages:
   tags:
     layouts: 
       - 'tag.html'
-    title: 'Dainius Kacinskas      '
+    title: 'The Barber Theme'
     permalink: '/tag/:tag'
     slugify:
       mode: raw
