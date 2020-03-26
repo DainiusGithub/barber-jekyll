@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Roof Party"
+title: "Live Sound/Lighting"
 date: 2017-10-20
 description: 
 image: /assets/images/placeholder-1.jpg
