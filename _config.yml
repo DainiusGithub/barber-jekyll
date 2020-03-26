@@ -11,16 +11,12 @@ url: http://www.kacinskas.com
 twitter_username: 
 default_img: /assets/images/seo.jpg
 social:
-  - name: twitter
-    url: 
+
   - name: instagram
     url: https://www.instagram.com/itsdainius
   - name: linkedin
     url: https://www.linkedin.com/in/dainiuskacinskas/
-  - name: github
-    url: 
-  - name: codepen
-    url: 
+
 
 # Contact settings
 contact_img: /assets/images/placeholder-28.jpg
