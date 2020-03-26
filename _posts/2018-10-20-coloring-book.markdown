@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Coloring Book"
+title: "Music Technician"
 date: 2017-10-22
 description: 
 image: /assets/images/city.jpg
