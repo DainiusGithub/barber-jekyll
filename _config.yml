@@ -43,7 +43,7 @@ pagination:
   permalink: '/page/:num/'
   title: ':title'
   limit: 0
-  sort_field: 'startDate'
+  sort_field: 'date'
   sort_reverse: true
 autopages:
   enabled: true
