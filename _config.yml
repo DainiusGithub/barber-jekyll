@@ -4,7 +4,7 @@ baseurl: ""
 permalink: /:year/:month/:day/:title/
 google_analytics: 
 
-name: Dainius Kacinskas
+name: 
 title: Dainius Kacinskas
 description: >
 url: http://www.kacinskas.com
@@ -31,7 +31,7 @@ mailchimp_input: b_66ddf555dab480e6a8606430b_89b3ee034f
 
 # Author settings
 author:
-  - name: Dainius Kacinskas
+  - name: 
     bio: 
     url: http://kacinskas.com
 
