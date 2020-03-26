@@ -54,7 +54,7 @@ autopages:
   tags:
     layouts: 
       - 'tag.html'
-    title: 'Dainius Kacinskas'
+    title: 'Dainius Kacinskas      '
     permalink: '/tag/:tag'
     slugify:
       mode: raw
