@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Music Technician"
-date: 2017-10-22
+date: 2018-10-20
 description: 
 image: /assets/images/city.jpg
 author: Thomas Vaeth
