@@ -3,7 +3,7 @@ layout: post
 title: "Live Sound/Lighting"
 date: 2017-10-20
 description: 
-image: /assets/images/sttage.jpg
+image: /assets/images/stage.jpg
 author: Dainius Kacinskas
 
 ---
