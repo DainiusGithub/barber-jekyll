@@ -55,7 +55,7 @@ autopages:
   tags:
     layouts: 
       - 'tag.html'
-    title: www.kacinskas.com
+    title: 
     permalink: '/tag/:tag'
     slugify:
       mode: raw
