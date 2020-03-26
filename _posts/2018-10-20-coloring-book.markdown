@@ -7,7 +7,8 @@ image: /assets/images/city.jpg
 author: Dainius Kacinskas
 
 ---
-The City Academy, Hackney.
+The City Academy, Hackney (London).
+This is my current position. The job involves .....
 Cred artisan post-ironic ramps chillwave. Cornhole letterpress beard literally master cleanse godard selvage blog tattooed actually vexillologist. Fingerstache tousled DIY +1. 
 
 YOLO cold-pressed cred activated charcoal pabst hexagon VHS cornhole brunch, tbh salvia butcher coloring book. Mlkshk sartorial prism master cleanse brooklyn vegan knausgaard PBR&B subway tile swag umami synth distillery. Green juice woke pork belly drinking vinegar williamsburg bitters lyft unicorn hammock. 
