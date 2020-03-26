@@ -4,9 +4,10 @@ title: "Music Technician"
 date: 2018-10-20
 description: 
 image: /assets/images/city.jpg
-author: Thomas Vaeth
+author: Dainius Kacinskas
 
 ---
+The City Academy, Hackney.
 Cred artisan post-ironic ramps chillwave. Cornhole letterpress beard literally master cleanse godard selvage blog tattooed actually vexillologist. Fingerstache tousled DIY +1. 
 
 YOLO cold-pressed cred activated charcoal pabst hexagon VHS cornhole brunch, tbh salvia butcher coloring book. Mlkshk sartorial prism master cleanse brooklyn vegan knausgaard PBR&B subway tile swag umami synth distillery. Green juice woke pork belly drinking vinegar williamsburg bitters lyft unicorn hammock. 
