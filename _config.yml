@@ -5,7 +5,7 @@ permalink: /:year/:month/:day/:title/
 google_analytics: 
 
 name: 
-title: 
+title: 'Dainius Kacinskas'
 description: >
 url: http://www.kacinskas.com
 twitter_username: 
@@ -54,7 +54,7 @@ autopages:
   tags:
     layouts: 
       - 'tag.html'
-    title: 'The Barber Theme'
+    title: 
     permalink: '/tag/:tag'
     slugify:
       mode: raw
