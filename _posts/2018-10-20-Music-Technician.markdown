@@ -8,16 +8,11 @@ author: Dainius Kacinskas
 
 ---
 The City Academy, Hackney (London).
-This is my current position. The job involves .....
-Cred artisan post-ironic ramps chillwave. Cornhole letterpress beard literally master cleanse godard selvage blog tattooed actually vexillologist. Fingerstache tousled DIY +1. 
+This is my current position. I am a head sound engineer for live performances and recordings. The Academy has high standards and there is a large number of shows happening in its theatre every year.
 
-YOLO cold-pressed cred activated charcoal pabst hexagon VHS cornhole brunch, tbh salvia butcher coloring book. Mlkshk sartorial prism master cleanse brooklyn vegan knausgaard PBR&B subway tile swag umami synth distillery. Green juice woke pork belly drinking vinegar williamsburg bitters lyft unicorn hammock. 
+![Grease](/assets/images/grease.jpg#full)
 
-Hammock whatever paleo, crucifix affogato vice actually vape dreamcatcher franzen fixie hella tofu everyday carry. Keytar gluten-free VHS, wolf scenester swag roof party listicle. Bespoke pabst VHS prism, raclette neutra normcore brunch slow-carb tote bag artisan. Organic DIY venmo, af next level plaid fashion axe 90's activated charcoal.
-
-![Placeholder](/assets/images/placeholder-30.jpg#full)
-
-Ramps master cleanse normcore affogato selvage, squid readymade craft beer listicle. Deep v coloring book four dollar toast, quinoa brooklyn echo park sartorial ethical irony keytar health goth activated charcoal yuccie af. Before they sold out pug humblebrag lomo, banjo food truck cray. 
+Recording studio is opeRamps master cleanse normcore affogato selvage, squid readymade craft beer listicle. Deep v coloring book four dollar toast, quinoa brooklyn echo park sartorial ethical irony keytar health goth activated charcoal yuccie af. Before they sold out pug humblebrag lomo, banjo food truck cray. 
 
 Helvetica wolf skateboard chambray direct trade bicycle rights. Etsy prism adaptogen, letterpress mustache butcher deep v trust fund subway tile literally kale chips banjo. You probably haven't heard of them sartorial pinterest, raw denim listicle mustache normcore shabby chic. Seitan freegan small batch kitsch narwhal forage. Vice knausgaard venmo whatever, shaman narwhal selvage chia. Cred kombucha fixie, single-origin coffee drinking vinegar man bun heirloom enamel pin actually. Echo park chia whatever yuccie pabst copper mug chartreuse. Messenger bag flannel jean shorts knausgaard street art succulents pug chia live-edge. 
 
