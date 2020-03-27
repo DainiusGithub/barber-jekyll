@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Live Sound/Lighting"
-date: 2017-10-20
+date: 2020-03-25
 description: 
 image: /assets/images/stage.jpg
 author: Dainius Kacinskas
