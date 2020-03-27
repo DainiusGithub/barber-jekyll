@@ -7,7 +7,7 @@ image: /assets/images/drums.jpg
 author: Dainius Kacinskas
 
 ---
-Examples:
+Listen to my past work below:
 1.
 2.
 3.
