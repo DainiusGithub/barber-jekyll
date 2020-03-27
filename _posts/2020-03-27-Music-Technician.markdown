@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Music Technician"
-date: 2020-03-28
+date: 2020-03-27
 description: 
 image: /assets/images/city.jpg
 author: Dainius Kacinskas
