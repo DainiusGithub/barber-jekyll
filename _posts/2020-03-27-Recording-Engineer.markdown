@@ -13,5 +13,5 @@ Listen to my past work below:
 3.
 Audio files
 <audio controls>
-  <source src="audio/RecordingConcertHall.wav" type="audio/mpeg">
+  <source src="/assets/audio/RecordingConcertHall.wav" type="audio/mpeg">
   </audio>
