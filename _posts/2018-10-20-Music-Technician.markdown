@@ -10,9 +10,9 @@ author: Dainius Kacinskas
 The City Academy, Hackney (London).
 This is my current position. I am a head sound engineer for live performances and recordings. A number of productions is shown at the Academy theatre every year.
 
-![Placeholder](/assets/images/grease.jpg)
+![Grease](/assets/images/grease.jpg)
 
-Recording studio is open every
+Recording studio is used everyday by staff and students for projects and coursework.
 
-![Placeholder](/assets/images/studiodesk.jpg)
+![Studio Desk](/assets/images/studiodesk.jpg)
 
