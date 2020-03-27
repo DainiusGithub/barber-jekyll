@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Recording Engineer"
-date: 2017-10-21
+date: 
 description: 
 image: /assets/images/drums.jpg
 author: Dainius Kacinskas
