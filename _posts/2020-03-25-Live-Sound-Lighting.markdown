@@ -7,14 +7,7 @@ image: /assets/images/stage.jpg
 author: Dainius Kacinskas
 
 ---
-List of venues:
-1.
-2.
-3.
-List of Lighting desks/systems used
-1.
-2.
-3.
+A few examples of lighting below:
 
 ![Placeholder](/assets/images/placeholder-25.jpg)
 
