@@ -8,15 +8,19 @@ author: Dainius Kacinskas
 
 ---
 Listen to my past work below:
+Caulbearers - Harpses. Mixing - Dainius Kacinskas (for a University project).
 <audio controls>
   <source src="/assets/audio/CaulbearersHarpses.mp3" type="audio/mpeg">
   </audio>
-  <audio controls>
+Concert Hall recording (Piano Violin Viola). Recording and Mixing - Dainius Kacinskas.
+<audio controls>
   <source src="/assets/audio/ConcertHall1.wav" type="audio/mpeg">
   </audio>
-  <audio controls>
+Concert Hall recording (Violin Viola Cello). Recording and Mixing - Dainius Kacinskas.
+<audio controls>
   <source src="/assets/audio/ConcertHall2.wav" type="audio/mpeg">
   </audio>
-  <audio controls>
+Cover of Audioslave - Show Me How To Live. Recording and Mixing - Dainius Kacinskas.
+<audio controls>
   <source src="/assets/audio/ShowMeHowToLive.mp3" type="audio/mpeg">
   </audio>
