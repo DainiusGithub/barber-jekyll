@@ -9,7 +9,7 @@ author: Dainius Kacinskas
 ---
 Listen to my past work below:
 
-Caulbearers - Harpses. Mixing - Dainius Kacinskas (for a University project).
+<b>Caulbearers - Harpses</b>. Mixing - Dainius Kacinskas (for a University project).
 <audio controls preload='none'>
   <source src="/assets/audio/CaulbearersHarpses.mp3" type="audio/mpeg" >
   </audio>
