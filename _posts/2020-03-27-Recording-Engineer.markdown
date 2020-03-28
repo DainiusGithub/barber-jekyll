@@ -9,8 +9,8 @@ author: Dainius Kacinskas
 ---
 Listen to my past work below:
 Caulbearers - Harpses. Mixing - Dainius Kacinskas (for a University project).
-<audio controls>
-  <source src="/assets/audio/CaulbearersHarpses.mp3" type="audio/mpeg">
+<audio controls id="yourAudio" preload='none'>
+  <source src="/assets/audio/CaulbearersHarpses.mp3" type="audio/mpeg" >
   </audio>
 Concert Hall recording (Piano Violin Viola). Recording and Mixing - Dainius Kacinskas.
 <audio controls>
