@@ -7,7 +7,7 @@ image: /assets/images/lighting.jpg
 author: Dainius Kacinskas
 
 ---
-A few examples of lighting below:
+A few examples of my lighting below:
 ![Placeholder](/assets/images/lightingcollage.jpg)
 ![Placeholder](/assets/images/stage.jpg)
 
