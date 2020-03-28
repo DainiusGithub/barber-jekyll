@@ -8,6 +8,6 @@ author: Dainius Kacinskas
 
 ---
 A few examples of lighting below:
-
+![Placeholder](/assets/images/lightingcollage.jpg)
 ![Placeholder](/assets/images/stage.jpg)
 
