@@ -13,15 +13,15 @@ Listen to my past work below:
 <audio controls preload='none'>
   <source src="/assets/audio/CaulbearersHarpses.mp3" type="audio/mpeg" >
   </audio>
-Concert Hall recording (Piano Violin Viola). Recording and Mixing - Dainius Kacinskas.
+<b>Concert Hall recording (Piano Violin Viola)</b>. Recording and Mixing - Dainius Kacinskas.
 <audio controls preload='none'>
   <source src="/assets/audio/ConcertHall1.wav" type="audio/mpeg">
   </audio>
-Concert Hall recording (Violin Viola Cello). Recording and Mixing - Dainius Kacinskas.
+<b>Concert Hall recording (Violin Viola Cello)</b>. Recording and Mixing - Dainius Kacinskas.
 <audio controls preload='none'>
   <source src="/assets/audio/ConcertHall2.wav" type="audio/mpeg">
   </audio>
-Cover of Audioslave - Show Me How To Live. Recording and Mixing - Dainius Kacinskas.
+<b>Cover of Audioslave - Show Me How To Live</b>. Recording and Mixing - Dainius Kacinskas.
 <audio controls preload='none'>
   <source src="/assets/audio/ShowMeHowToLive.mp3" type="audio/mpeg">
   </audio>
