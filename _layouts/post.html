@@ -40,8 +40,8 @@ layout: default
 
       <div class="section-padding">
         <div class="grid-small">
-          <img src="https://raw.githubusercontent.com/DainiusGithub/barber-jekyll/gh-pages/assets/images/profile.jpg" alt="Profile">
           {% for author in page.author %}
+          <img src="https://raw.githubusercontent.com/DainiusGithub/barber-jekyll/gh-pages/assets/images/profile.jpg" alt="Profile">
             {% assign authorDetails = site.author | where: "name", author %}
             {% if forloop.first == true %}
               <span class="post__author">Posted by
