@@ -11,7 +11,7 @@ Hi, my name is Dainius Kacinskas and currently I work at The City Academy, Hackn
 
 ![Grease](/assets/images/grease.jpg)
 
-Recording studio is used daily by staff and students for projects etc.
+Recording studio is used daily by staff and students for projects/mixing.
 
 ![City Academy](/assets/images/city.jpg)
 
