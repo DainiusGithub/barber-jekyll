@@ -15,5 +15,5 @@ This is my current position. I am a head sound engineer for live performances an
 
 Recording studio is used daily by staff and students for projects and coursework.
 
-![Studio Desk](/assets/images/studiodesk.jpg)
+![Studio Desk](/assets/images/city.jpg)
 
