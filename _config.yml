@@ -3,7 +3,15 @@ email: dainius@kacinskas.com
 baseurl: ""
 permalink: /:year/:month/:day/:title/
 google_analytics: 
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-29881107-2"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
 
+  gtag('config', 'UA-29881107-2');
+</script>
 name: 
 title: 'Dainius Kacinskas'
 description:
