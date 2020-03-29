@@ -7,7 +7,7 @@ image: /assets/images/drums.jpg
 author: Dainius Kacinskas
 
 ---
-Listen to my past work below:
+Listen to examples of my past work here:
 
 <b>Caulbearers - Harpses</b>. Mixing - Dainius Kacinskas (for a University project).
 <audio controls preload='none'>
