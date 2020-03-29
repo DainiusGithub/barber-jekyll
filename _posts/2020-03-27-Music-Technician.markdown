@@ -12,8 +12,7 @@ This is my current position. I am a head sound engineer for live performances an
 
 ![Grease](/assets/images/grease.jpg)
 
+Recording studio is used daily by staff and students for projects etc.
 
-Recording studio is used daily by staff and students for projects and coursework.
-
-![Studio Desk](/assets/images/city.jpg)
+![City Academy](/assets/images/city.jpg)
 
