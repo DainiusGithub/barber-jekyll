@@ -7,8 +7,7 @@ image: /assets/images/rack.jpg
 author: Dainius Kacinskas
 
 ---
-The City Academy, Hackney (London).
-This is my current position. I am a head sound engineer for live performances and recordings. A number of productions is shown at the Academy theatre every year.
+Hi, my name is Dainius Kacinskas and currently I work at The City Academy, Hackney (London). I am a head sound engineer for live performances and recordings. A number of productions is shown at the Academy theatre every year.
 
 ![Grease](/assets/images/grease.jpg)
 
