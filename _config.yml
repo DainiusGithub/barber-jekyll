@@ -1,7 +1,7 @@
 # Site/SEO settings
 email: dainius@kacinskas.com
 baseurl: ""
-permalink: /:year/:month/:day/:title/
+permalink: /:title/
 google_analytics: UA-29881107-2
 name: 
 title: 'Dainius Kacinskas'
