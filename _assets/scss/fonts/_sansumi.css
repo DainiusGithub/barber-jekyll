@@ -4,7 +4,7 @@
 font-family: 'Sansumi-Bold';
 font-style: normal;
 font-weight: normal;
-src: local('Sansumi-Bold'), url('../_assets/scss/fonts/Sansumi-Bold.woff') format('woff');
+src: local('Sansumi-Bold'), url('https://github.com/DainiusGithub/barber-jekyll/blob/gh-pages/_assets/scss/fonts/Sansumi-Bold.woff') format('woff');
 }
 
 
