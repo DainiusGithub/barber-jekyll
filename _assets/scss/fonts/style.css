@@ -4,7 +4,7 @@
 font-family: 'Sansumi-Bold';
 font-style: normal;
 font-weight: normal;
-src: local('Sansumi-Bold'), url('Sansumi-Bold.woff') format('woff');
+src: local('Sansumi-Bold'), url('/_assets/scss/fonts/Sansumi-Bold.woff') format('woff');
 }
 
 
@@ -12,5 +12,5 @@ src: local('Sansumi-Bold'), url('Sansumi-Bold.woff') format('woff');
 font-family: 'Sansumi-ExtraBold';
 font-style: normal;
 font-weight: normal;
-src: local('Sansumi-ExtraBold'), url('Sansumi-ExtraBold.woff') format('woff');
+src: local('Sansumi-ExtraBold'), url('/_assets/scss/fonts/Sansumi-ExtraBold.woff') format('woff');
 }
