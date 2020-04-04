@@ -4,6 +4,7 @@ title: "Music Technician"
 date: 2020-03-27
 description: 
 image: /assets/images/rack.jpg
+imageb: /assets/images/rackb.jpg
 author: Dainius Kacinskas
 
 ---
