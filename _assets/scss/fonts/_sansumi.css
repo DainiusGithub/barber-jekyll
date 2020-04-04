@@ -4,7 +4,7 @@
 font-family: 'Sansumi-Bold';
 font-style: normal;
 font-weight: normal;
-src: local('Sansumi-Bold'), url(https://fonts.gstatic.com/s/lora/v12/rAXKWvABQNHjPUk26ixVvvesZW2xOQ-xsNqO47m55DA.woff2) format('woff');
+src: local('Sansumi-Bold'), url('../barber-jekyll/_assets/scss/fonts/Sansumi-Bold.woff') format('woff');
 }
 
 
