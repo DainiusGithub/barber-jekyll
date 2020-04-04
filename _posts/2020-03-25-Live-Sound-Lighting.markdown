@@ -4,6 +4,7 @@ title: "Live Sound/Lighting"
 date: 2020-03-25
 description: 
 image: /assets/images/desks.jpg
+imageb: /assets/images/desksb.jpg
 author: Dainius Kacinskas
 
 ---
