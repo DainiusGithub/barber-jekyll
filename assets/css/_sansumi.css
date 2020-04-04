@@ -4,13 +4,5 @@
 font-family: 'Sansumi-Bold';
 font-style: normal;
 font-weight: normal;
-src: local('Sansumi-Bold'), url("{{ site.url }}/_assets/scss/fonts/Sansumi-Bold.woff"); format('woff');
-}
-
-
-@font-face {
-font-family: 'Sansumi-ExtraBold';
-font-style: normal;
-font-weight: normal;
-src: local('Sansumi-ExtraBold'), url('../barber-jekyll/_assets/scss/fonts/Sansumi-ExtraBold.woff') format('woff');
+src: local('sansumi-regular'), URL(".../sansumi-regular.ttf") format("TrueType");
 }
