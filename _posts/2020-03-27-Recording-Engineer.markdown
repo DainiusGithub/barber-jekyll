@@ -4,6 +4,7 @@ title: "Recording Engineer"
 date: 2020-03-26
 description: 
 image: /assets/images/drums.jpg
+imageb: /assets/images/drumsb.jpg
 author: Dainius Kacinskas
 
 ---
